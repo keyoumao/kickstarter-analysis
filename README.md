@@ -5,4 +5,4 @@
 ---
 ![](https://github.com/keyoumao/kickstarter-analysis/blob/master/Fig.%206_Outcomes%20based%20on%20launch%20date_line%20chart_theater.png)
 ---
-
+### Challenge
