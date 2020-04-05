@@ -13,3 +13,8 @@ From the Line Chart of the Outcomes Based on Goals for Plays Subcategory above, 
 ---
 ![](https://github.com/keyoumao/kickstarter-analysis/blob/master/Fig.%206_Outcomes%20based%20on%20launch%20date_line%20chart_theater.png)
 ---
+From the Line Chart of the Outcomes Based on Launch Date for Theater Parent Category above, we could draw the following conclusions:
+1. May and June have the highest successful campaigns; December has the lowest successful campaigns. 
+2. In February, small spike occur for both successful and failed campaigns, indicating possible increase in successful kickstarter.
+3. In October, a local increase in failed campaigns exceeds the increase of successful ones, which could result from zero canceled campaigns.
+4. The number of canceled campains is relatively steady (highest in January) and considered as minor compared to the successful and failed ones; no cancelation in October.  
