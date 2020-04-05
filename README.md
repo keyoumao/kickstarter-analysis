@@ -5,7 +5,7 @@
 ---
 ![alt text](https://github.com/keyoumao/kickstarter-analysis/blob/master/Figure%202%20Pivot%20Table.png)
 ---
-![alt text](https://github.com/keyoumao/kickstarter-analysis/blob/master/Figure%203%20Pivot%20Table.png)
+![alt text](https://github.com/keyoumao/kickstarter-analysis/blob/master/Fig.%205_Outcomes%20based%20on%20goals_line%20chart_plays.png.png)
 ---
 ![alt text](https://github.com/keyoumao/kickstarter-analysis/blob/master/Figure%204%20Pivot%20Table.png)
 ---
